@@ -1,0 +1,1 @@
+You can use the Makefile that I have provided by simply typing the command "make" at the prompt.  This will build both applications for you and link against the SQLite library.  You can type "make clean" to remove the object files (the ones that end in .o), the application files and any temporary files created by your editor.  
